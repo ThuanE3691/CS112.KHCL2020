@@ -65,6 +65,4 @@
    <li>Tên chủ đề: Kiếm tra tính đúng đắn và hiệu năng của chương trình bằng bộ test   
 </ul>
 
-<p font-weight="bold">
-   Hello
-</p>
+
