@@ -13,7 +13,7 @@
 
 <p>
   <ul>
-     <li> Số thứ tự nhóm: 4
+     <li font-weight="bold"> Số thứ tự nhóm: 4
      <li> Tên nhóm: Wibu neva die
   </ul>
 </p>
