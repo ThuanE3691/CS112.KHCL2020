@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://www.uit.edu.vn/">
-      <img src="https://i.imgur.com/WmMnSRt.png">
+      <img src="https://i.imgur.com/WmMnSRt.png" border="none">
    </a>
 </p>
 <h1 align="center">
