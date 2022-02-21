@@ -14,7 +14,7 @@
 <p>
   <ul>
      <li> Số thứ tự nhóm: 4
-     <li> Tên nhóm: Wibu neva die
+     <li> Tên nhóm: Bacon
      <li> Thông tin thành viên: 
   </ul>
   
