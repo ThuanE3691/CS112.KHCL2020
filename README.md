@@ -22,11 +22,25 @@
        <th>Họ và Tên</th>
        <th>MSSV</th>
        <th>Github</th>
+       <th>Email</th>
       </tr>
       <tr>
        <td>Nguyễn Minh Thuận</td>
        <td>20520795</td>
        <td>https://github.com/ThuanE3691</td>
+       <td>20520795@gm.uit.edu.vn</td>  
+      </tr>
+      <tr>
+       <td>Quang Phú Bùi</td>
+       <td>20520273</td>
+       <td>https://github.com/ThuanE3691</td>
+       <td>20520273@gm.uit.edu.vn</td>  
+      </tr>
+      <tr>
+       <td>Nguyễn Thị Ngọc Nga</td>
+       <td>20521641</td>
+       <td>https://github.com/ThuanE3691</td>
+       <td>20521641@gm.uit.edu.vn</td>  
       </tr>
   </table>
 </p>
