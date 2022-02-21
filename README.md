@@ -12,7 +12,7 @@
 </h2>
 
 <ul>
-   <li>Tên môn học: Phân tích và thiết kế thuật toán
+   <li font-weight = "bold">Tên môn học: Phân tích và thiết kế thuật toán
    <li>Mã môn học: CS112
    <li>Mã lớp: CS112.M21.KHCL
    <li>Năm học: HK2 (2021-2022)
