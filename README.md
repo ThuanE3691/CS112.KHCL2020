@@ -11,7 +11,7 @@
    Giới thiệu nhóm
 </h2>
 
-<p font-weight='bold'>
+<p>
   <ul>
      <li> Số thứ tự nhóm: 4
      <li> Tên nhóm: Wibu neva die
