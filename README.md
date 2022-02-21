@@ -8,6 +8,17 @@
 </h1>
 
 <h2>
+   Giới thiệu môn học   
+</h2>
+
+<ul>
+   <li>Tên môn học: Phân tích và thiết kế thuật toán
+   <li>Mã môn học: CS112
+   <li>Mã lớp: CS112.M21.KHCL
+   <li>Năm học: HK2 2021-2022
+   <li>Giảng viên: Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn 
+</ul>
+<h2>
    Giới thiệu nhóm
 </h2>
 
