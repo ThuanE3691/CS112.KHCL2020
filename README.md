@@ -16,4 +16,12 @@
      <li font-weight="bold"> Số thứ tự nhóm: 4
      <li> Tên nhóm: Wibu neva die
   </ul>
+  
+  <table>
+      <tr>
+       <th>Họ và Tên</th>
+       <th>MSSV</th>
+       <th>Github</th>
+     </tr>
+  </table>
 </p>
