@@ -6,6 +6,6 @@
   <ul>
     <li>Nguyễn Minh Thuận
     <li>Bùi Quang Phú
-    <li>Nguyễn Ngọc Nga
+    <li>Nguyễn Thị Ngọc Nga
   <ul>
 <body>
