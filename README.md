@@ -23,7 +23,7 @@
 
 - **Số thứ tự nhóm:** 4
 - **Tên nhóm:** Bacon
-- **Thông tin thành viên 
+- **Thông tin thành viên** 
 
 <table align="center">
       <tr>
