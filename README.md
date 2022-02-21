@@ -22,6 +22,11 @@
        <th>Họ và Tên</th>
        <th>MSSV</th>
        <th>Github</th>
-     </tr>
+      </tr>
+      <tr>
+       <td>Nguyễn Minh Thuận</td>
+       <td>20520795</td>
+       <td>https://github.com/ThuanE3691</td>
+      </tr>
   </table>
 </p>
