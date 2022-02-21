@@ -16,7 +16,7 @@
    <li>Mã môn học: CS112
    <li>Mã lớp: CS112.M21.KHCL
    <li>Năm học: HK2 2021-2022
-   <li>Giảng viên: Ths. Nguyễn Thanh Sơn - *sonnt@uit.edu.vn*
+   <li>Giảng viên: Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn
 </ul>
 <h2>
    Giới thiệu nhóm
@@ -64,3 +64,7 @@
 <ul>
    <li>Tên chủ đề: Kiếm tra tính đúng đắn và hiệu năng của chương trình bằng bộ test   
 </ul>
+
+<p font-weight="bold">
+   Hello
+</p>
