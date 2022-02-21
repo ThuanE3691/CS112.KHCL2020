@@ -57,9 +57,7 @@
   Chủ đề báo cáo 
 </h2>
 
-<ul>
-   <li>Số thứ tự chủ đề: 3
-   <li>Tên chủ đề: Kiếm tra tính đúng đắn và hiệu năng của chương trình bằng bộ test   
-</ul>
+**Số thứ tự chủ đề:** 3
+**Tên chủ đề:** Tên chủ đề: Kiếm tra tính đúng đắn và hiệu năng của chương trình bằng bộ test   
 
 
