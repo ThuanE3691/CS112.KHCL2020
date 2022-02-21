@@ -4,10 +4,16 @@
    </a>
 </p>
 <h1 align="center">
-    CS112.M21 - Phân tích và thiết kế thuật toán
+    CS112.M21.KHCL - Phân tích và thiết kế thuật toán
 </h1>
 
 <h2>
-   Danh sách thành viên
+   Giới thiệu nhóm
 </h2>
-   
+
+<p>
+  <ul>
+     <li> Số thứ tự nhóm: 4
+     <li> Tên nhóm: Wibu neva die
+  </ul>
+</p>
