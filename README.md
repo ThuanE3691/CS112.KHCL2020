@@ -3,6 +3,6 @@
       <img src="https://i.imgur.com/WmMnSRt.png">
    </a>
 </p>
-<h1 align="center" color="red">
+<h1 align="center">
     CS112 - Phân tích và thiết kế thuật toán
 </h1>
