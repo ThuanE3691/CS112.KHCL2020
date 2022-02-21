@@ -21,14 +21,11 @@
    Giới thiệu nhóm
 </h2>
 
-<p>
-  <ul>
-     <li> Số thứ tự nhóm: 4
-     <li> Tên nhóm: Bacon
-     <li> Thông tin thành viên: 
-  </ul>
-  
-  <table align="center">
+- **Số thứ tự nhóm:** 4
+- **Tên nhóm:** Bacon
+- **Thông tin thành viên 
+
+<table align="center">
       <tr>
        <th>Họ và Tên</th>
        <th>MSSV</th>
@@ -53,8 +50,8 @@
        <td>https://github.com/ThuanE3691</td>
        <td>20521641@gm.uit.edu.vn</td>  
       </tr>
-  </table>
-</p>
+</table>
+
 
 <h2>
   Chủ đề báo cáo 
