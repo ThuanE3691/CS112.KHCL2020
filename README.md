@@ -17,7 +17,7 @@
      <li> Tên nhóm: Wibu neva die
   </ul>
   
-  <table>
+  <table align="center">
       <tr>
        <th>Họ và Tên</th>
        <th>MSSV</th>
