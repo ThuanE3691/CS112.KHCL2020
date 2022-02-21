@@ -45,3 +45,11 @@
       </tr>
   </table>
 </p>
+
+<h2>
+  Chủ đề báo cáo 
+</h2>
+
+<ul>
+   Tên chủ đề: Kiếm tra tính đúng đắn và hiệu năng của chương trình bằng bộ test   
+</ul>
