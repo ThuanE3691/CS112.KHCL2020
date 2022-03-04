@@ -35,7 +35,7 @@
       <tr>
        <td>Nguyễn Minh Thuận</td>
        <td>20520795</td>
-       <td>https://github.com/ThuanE3691</td>
+       <td>[Nguyễn Minh Thuận](https://github.com/ThuanE3691)</td>
        <td>20520795@gm.uit.edu.vn</td>  
       </tr>
       <tr>
