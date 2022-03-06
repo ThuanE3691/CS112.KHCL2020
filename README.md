@@ -39,7 +39,7 @@
        <td>20520795@gm.uit.edu.vn</td>  
       </tr>
       <tr>
-       <td>Quang Phú Bùi</td>
+       <td>Bùi Quang Phú</td>
        <td>20520273</td>
        <td> https://github.com/PhuBuii</td>
        <td>20520273@gm.uit.edu.vn</td>  
