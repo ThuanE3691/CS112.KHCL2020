@@ -35,13 +35,13 @@
       <tr>
        <td>Nguyễn Minh Thuận</td>
        <td>20520795</td>
-       <td>[ThuanE3691](https://github.com/ThuanE3691)</td>
+       <td> [ThuanE3691](https://github.com/ThuanE3691)</td>
        <td>20520795@gm.uit.edu.vn</td>  
       </tr>
       <tr>
        <td>Quang Phú Bùi</td>
        <td>20520273</td>
-       <td>[https://github.com/PhuBuii?fbclid=IwAR1BpkE8gYLFESKbw43MdVjtlUaDdDsIfrbo5dh1ExHfg9TOvAtTQtEW3NM](PhuBuii)</td>
+       <td> [PhuBuii](https://github.com/PhuBuii?fbclid=IwAR1BpkE8gYLFESKbw43MdVjtlUaDdDsIfrbo5dh1ExHfg9TOvAtTQtEW3NM)</td>
        <td>20520273@gm.uit.edu.vn</td>  
       </tr>
       <tr>
