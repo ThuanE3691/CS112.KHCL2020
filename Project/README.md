@@ -42,5 +42,5 @@ Tạo test case cho bài toán bên dưới.
 
 ![image](https://user-images.githubusercontent.com/77454876/162258451-6296c7ec-ced2-44f6-bdc3-8c6f4ebde0ac.png)
 
-- Gửi file rar vào form
+- Gửi file rar vào
 [Form nộp bài tập](https://docs.google.com/forms/d/e/1FAIpQLScJoQZWoHwIcZeNuCLakow6QAKDfgDpL8LE0WHNh06VMS9bcQ/viewform?usp=pp_url)
