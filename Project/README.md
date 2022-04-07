@@ -32,9 +32,15 @@ Tạo test case cho bài toán bên dưới.
 
 ![image](https://user-images.githubusercontent.com/77454876/162258324-9741f148-abf2-43e4-8caa-0088b326fc39.png)
 
+- Đặt tên cho file source code của nhóm là **caso.[đuôi ngôn ngữ lập trình(.c,.py,..)]** 
+
+![image](https://user-images.githubusercontent.com/77454876/162258813-8fe1a01f-9a2e-4618-91a5-402d9f445bd1.png)
+
 - Gộp folder TestCase đã tạo với source code(bao gồm code sinh test case) của bài toán vào một file rar đặt tên theo cú pháp: **nhomstt.rar**
 
-**Ví dụ**: nhom4.rar
+![image](https://user-images.githubusercontent.com/77454876/162258592-5d050bf5-d79a-4c68-b25d-b4c4e210d92f.png)
+
+![image](https://user-images.githubusercontent.com/77454876/162258451-6296c7ec-ced2-44f6-bdc3-8c6f4ebde0ac.png)
 
 - Gửi file rar cuối cùng vào link sau: 
 
