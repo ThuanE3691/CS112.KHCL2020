@@ -16,10 +16,10 @@ Chụp hình mind map nhóm đã làm trong buổi thảo luận.
 
 Tạo test case cho bài toán bên dưới. Test case phải có trường hợp kiểm tra tính đúng đắn và hiệu năng.
 
-**Bài toán**:
+**Bài toán**
 
 Cho một mảng gồm N số nguyên dương $A_1 . Hỏi có bao nhiêu cặp số bằng nhau? (Bao nhiêu cặp ai = aj với i ≠ j, (ai, aj) và (aj, ai) chỉ được tính là 1 cặp)
 
-**Input**:
+**Input**
 - Dòng đầu là chiều dài N của mảng (1 <= n <= 10^5) 
 
