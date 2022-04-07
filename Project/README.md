@@ -12,10 +12,9 @@ Thống kê chi tiết tham gia kahoot: [Kahoot](câu%20hỏi%20về%20program%2
 
 Chụp hình mind map nhóm đã làm trong buổi thảo luận.
 
-- **Bài tập 2** : Tạo 20 test case cho bài toán bên dưới. Test case phải có trường hợp kiểm tra tính đúng đắn và hiệu năng.
+- **Bài tập 2** 
 
-Cách thức nộp bài:
-- Mỗi test case sẽ có cú pháp đặt tên như sau:  
+Tạo test case cho bài toán bên dưới. Test case phải có trường hợp kiểm tra tính đúng đắn và hiệu năng.
 
 - **Bài toán**:
 
