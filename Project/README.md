@@ -22,11 +22,15 @@ Tạo test case cho bài toán bên dưới.
 
 **Yêu cầu**
 
-- Test case tạo ra phải có trường hợp kiểm tra tính đúng đắn và hiệu năng.
+- Test case tạo ra phải có trường hợp kiểm tra tính đúng đắn và hiệu năng và đúng format của Input
 
-- Tạo 20 test case cho bài toán trên. Với mỗi test case đặt tên theo cú pháp sau: **CASOstt.txt**
+- Tạo 20 test case cho bài toán trên. Với mỗi test case đặt tên theo cú pháp sau: **CaSo[stt].txt**
+
+![image](https://user-images.githubusercontent.com/77454876/162258200-4f96db1f-7ed2-4983-a2aa-a8e204b077e0.png)
 
 - Gộp chung 20 test case đã tạo vào một folder đặt tên là **TestCase**
+
+![image](https://user-images.githubusercontent.com/77454876/162258324-9741f148-abf2-43e4-8caa-0088b326fc39.png)
 
 - Gộp folder TestCase đã tạo với source code(bao gồm code sinh test case) của bài toán vào một file rar đặt tên theo cú pháp: **nhomstt.rar**
 
