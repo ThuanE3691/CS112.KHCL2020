@@ -14,6 +14,8 @@ Chụp hình mind map nhóm đã làm trong buổi thảo luận.
 
 Gửi ảnh qua [Form nộp mind map](https://docs.google.com/forms/d/e/1FAIpQLScJoQZWoHwIcZeNuCLakow6QAKDfgDpL8LE0WHNh06VMS9bcQ/viewform?usp=pp_url) 
 
+**Deadline**: 10/4/2022
+
 - **Bài tập 2** 
 
 Tạo test case cho bài toán bên dưới.
@@ -46,3 +48,6 @@ Tạo test case cho bài toán bên dưới.
 
 - Gửi file rar vào
 [Form nộp bài tập](https://docs.google.com/forms/d/e/1FAIpQLScJoQZWoHwIcZeNuCLakow6QAKDfgDpL8LE0WHNh06VMS9bcQ/viewform?usp=pp_url)
+
+**Deadline**: 13/4/2022
+
