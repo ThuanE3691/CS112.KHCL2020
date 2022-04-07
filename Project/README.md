@@ -22,13 +22,13 @@ Tạo test case cho bài toán bên dưới.
 
 **Yêu cầu**
 
-- Tạo 20 test case cho bài toán trên. Với mỗi test case đặt tên theo cú pháp sau: **CASOstt.txt**
-
 - Test case tạo ra phải có trường hợp kiểm tra tính đúng đắn và hiệu năng.
 
-- Gộp chung 20 test case đã tạo vào một folder đặt tên là TestCase
+- Tạo 20 test case cho bài toán trên. Với mỗi test case đặt tên theo cú pháp sau: **CASOstt.txt**
 
-- Gộp folder TestCase đã tạo với source code của bài toán vào một file rar đặt tên theo cú pháp: **nhomstt.rar**
+- Gộp chung 20 test case đã tạo vào một folder đặt tên là **TestCase**
+
+- Gộp folder TestCase đã tạo với source code(bao gồm code sinh test case) của bài toán vào một file rar đặt tên theo cú pháp: **nhomstt.rar**
 
 **Ví dụ**: nhom4.rar
 
