@@ -17,6 +17,7 @@ Cách thức nộp bài:
 - **Bài toán**:
 
 Cho một mảng gồm N số nguyên dương A_1, a2, a3, ... an. Hỏi có bao nhiêu cặp số bằng nhau? (Bao nhiêu cặp ai = aj với i ≠ j, (ai, aj) và (aj, ai) chỉ được tính là 1 cặp)
+
 **Input**:
-- 
+- Dòng đầu là chiều dài N của mảng (1 <= n <= 10^5) 
 
