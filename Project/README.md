@@ -1,4 +1,4 @@
-Biên bản buổi học: [Biên bản buổi học](Bien%20ban%20buoi%20hoc.xlxs)
+Biên bản buổi học: [Biên bản buổi học](Biên%20bản%20buổi%20học.xlsx)
 
 Slide thuyết trình: [Program testing](Program%20Testing.pptx)
 
