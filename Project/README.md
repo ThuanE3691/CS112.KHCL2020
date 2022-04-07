@@ -18,7 +18,7 @@ Tạo test case cho bài toán bên dưới. Test case phải có trường hợ
 
 **Bài toán**
 
-![image](https://user-images.githubusercontent.com/77454876/162256112-57bfc141-966f-4e48-ac66-28502f83449a.png)
+![image](https://user-images.githubusercontent.com/77454876/162256676-93c83804-a98d-4833-8c67-2a0136943afe.png)
 
 **Input**
 - Dòng đầu là chiều dài N của mảng (1 <= n <= 10^5) 
