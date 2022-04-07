@@ -18,7 +18,7 @@ Tạo test case cho bài toán bên dưới. Test case phải có trường hợ
 
 **Bài toán**
 
-Cho một mảng gồm N số nguyên dương $A_1 . Hỏi có bao nhiêu cặp số bằng nhau? (Bao nhiêu cặp ai = aj với i ≠ j, (ai, aj) và (aj, ai) chỉ được tính là 1 cặp)
+![image](https://user-images.githubusercontent.com/77454876/162256051-3a713b03-9b59-49f0-b133-7335a243a54f.png)
 
 **Input**
 - Dòng đầu là chiều dài N của mảng (1 <= n <= 10^5) 
