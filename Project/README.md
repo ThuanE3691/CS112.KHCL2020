@@ -36,7 +36,7 @@ Tạo test case cho bài toán bên dưới.
 
 ![image](https://user-images.githubusercontent.com/77454876/162258893-4d6bd4a2-a091-40d8-a291-9d080fccb073.png)
 
-- Gộp folder TestCase đã tạo với source code(bao gồm code sinh test case) của bài toán vào một file rar đặt tên theo cú pháp: **nhomstt.rar**
+- Gộp folder TestCase đã tạo với source code(bao gồm code sinh test case) của bài toán vào một file rar đặt tên theo cú pháp: **nhom[stt].rar**
 
 ![image](https://user-images.githubusercontent.com/77454876/162258592-5d050bf5-d79a-4c68-b25d-b4c4e210d92f.png)
 
