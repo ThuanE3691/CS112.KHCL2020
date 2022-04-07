@@ -34,7 +34,7 @@ Tạo test case cho bài toán bên dưới.
 
 - Đặt tên cho file source code của nhóm là **caso.[đuôi ngôn ngữ lập trình(.c,.py,..)]** 
 
-![image](https://user-images.githubusercontent.com/77454876/162258813-8fe1a01f-9a2e-4618-91a5-402d9f445bd1.png)
+![image](https://user-images.githubusercontent.com/77454876/162258893-4d6bd4a2-a091-40d8-a291-9d080fccb073.png)
 
 - Gộp folder TestCase đã tạo với source code(bao gồm code sinh test case) của bài toán vào một file rar đặt tên theo cú pháp: **nhomstt.rar**
 
