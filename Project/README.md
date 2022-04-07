@@ -12,6 +12,8 @@ Thống kê chi tiết tham gia kahoot: [Kahoot](câu%20hỏi%20về%20program%2
 
 Chụp hình mind map nhóm đã làm trong buổi thảo luận.
 
+Gửi ảnh qua [Form nộp mind map](https://docs.google.com/forms/d/e/1FAIpQLScJoQZWoHwIcZeNuCLakow6QAKDfgDpL8LE0WHNh06VMS9bcQ/viewform?usp=pp_url) 
+
 - **Bài tập 2** 
 
 Tạo test case cho bài toán bên dưới.
