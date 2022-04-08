@@ -26,7 +26,7 @@ Tạo test case cho bài toán bên dưới.
 
 **Yêu cầu**
 
-- Test case tạo ra phải có trường hợp kiểm tra tính đúng đắn và hiệu năng và đúng format của Input
+- Test case tạo ra phải có trường hợp kiểm tra tính đúng đắn và hiệu năng và đúng format của Input và Output
 
 - Tạo 20 test case cho bài toán trên. Với mỗi test case phải có file input và output tương ứng đặt tên theo cú pháp sau: **CaSo[stt].in**, **CaSo[stt].out**
 
