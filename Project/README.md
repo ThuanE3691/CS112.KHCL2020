@@ -28,11 +28,19 @@ Tạo test case cho bài toán bên dưới.
 
 - Test case tạo ra phải có trường hợp kiểm tra tính đúng đắn và hiệu năng và đúng format của Input
 
-- Tạo 20 test case cho bài toán trên. Với mỗi test case đặt tên theo cú pháp sau: **CaSo[stt].txt**
+- Tạo 20 test case cho bài toán trên. Với mỗi test case phải có file input và output tương ứng đặt tên theo cú pháp sau: **CaSo[stt].in**, **CaSo[stt].out**
 
-![image](https://user-images.githubusercontent.com/77454876/162258200-4f96db1f-7ed2-4983-a2aa-a8e204b077e0.png)
+![image](https://user-images.githubusercontent.com/77454876/162369030-b73aba6d-ae09-49f0-9c1b-fe5ed1929735.png)
 
-- Gộp chung 20 test case đã tạo vào một folder đặt tên là **TestCase**
+- Gộp 20 file input vào một folder đặt tên là **Input**
+
+![image](https://user-images.githubusercontent.com/77454876/162369068-103f0db3-ea81-4124-8feb-1506dfee5ddf.png)
+
+- Gộp 20 file output vào một folder đặt tên là **Output**
+
+![image](https://user-images.githubusercontent.com/77454876/162369092-bee0b856-6e28-4136-ac30-98e6407fe77f.png)
+
+- Gộp chung 2 folder Input và Output đã tạo vào một folder đặt tên là **TestCase**
 
 ![image](https://user-images.githubusercontent.com/77454876/162258324-9741f148-abf2-43e4-8caa-0088b326fc39.png)
 
